@@ -13,13 +13,11 @@ I am currently transitioning into the tech space with a focus on user-centered d
 ## Project
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| UX Researcher          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-|Brand Development         | SOC Automation Lab|
-| Visual Storytelling      | SOC Automation Lab|
-| Creative Design              | SOC Automation Lab|
+## Elevate Mental Health App
+| <a href="https://google.com">Detection Lab</a>|
+## Elevate Mental Health Wireframe & UX Research Slide Deck
+| <a href="https://google.com">Detection Lab</a>|
+
 
 
 ## Skills & Tools
