@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Osariemen Iyoha
+<a href="https://www.linkedin.com/in/iyoha-precious-osariemen-835774355"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**pocre8/pocre8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a creative designer with a strong interest in technology. With experience in brand development, visual storytelling, and creative design, I aim to bring clarity and value to every project I work on.
+
+## Objective
+
+
+I am currently transitioning into the tech space with a focus on user-centered design and front-end development. I want to help teams and businesses communicate ideas clearly through smart design and simple user experiences.
+
+## Project
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| UX Researcher          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+|Brand Development         | SOC Automation Lab|
+| Visual Storytelling      | SOC Automation Lab|
+| Creative Design              | SOC Automation Lab|
+
+
+## Skills & Tools
+- *Design:* Figma, Canva, Adobe XD
+- *Branding:* Logos, Color Systems, Presentation Decks
+- *UX Research:* User Flows, Wireframes, Inclusivity Design
+- Time Management | Team Collaboration | Attention to Detail
+## Certifications
+- Graphics Design Diploma Certificate (2021)  - GH
+- Canva for Visual  
+- Maritime and ICT Diploma Certificate - UNIBEN
+## Projects
+- Detection Lab
+- SOC Automation Project
