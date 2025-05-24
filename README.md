@@ -13,7 +13,7 @@ I am currently transitioning into the tech space with a focus on user-centered d
 ## Project
 
 
-## Elevate Mental Health App
+## Elevate Mental Health App Presentation
 | <a href="https://google.com">Detection Lab</a>|
 ## Elevate Mental Health Wireframe & UX Research Slide Deck
 | <a href="https://google.com">Detection Lab</a>|
