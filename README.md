@@ -1,5 +1,7 @@
 # Hello, I'm Osariemen Iyoha
-<a href="https://www.linkedin.com/in/iyoha-precious-osariemen-835774355"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/osariemen-iyoha-835774355">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 
